@@ -25,5 +25,4 @@ This is the result, as you can see there are no noticeable differences between t
 It’s possible, using Caleto, to hide images and also recover the file hidden within the image.
 
 # Known issues:
-Files to be hidden must be at least 8 times lighter than the BMP file used to hide it.
-
+Files to be hidden must be at least 8 times lighter than the BMP file used to hide it. This cannot be fixed in the current implementation as each bit from hidden file must be hidden in the last bit of the image, so you need 8 bytes (in the image) per byte in the hidden file.
