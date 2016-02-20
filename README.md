@@ -1,5 +1,5 @@
 # Caleto
-Caleto is a Java implementation of [https://en.wikipedia.org/wiki/Steganography](steganography) which hiddes files inside bmp images.
+Caleto is a Java implementation of [steganography](https://en.wikipedia.org/wiki/Steganography) which hiddes files inside bmp images.
 
 # GUI
 Here’s an screenshot of Caleto:
